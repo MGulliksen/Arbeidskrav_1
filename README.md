@@ -1,1 +1,2 @@
-# Arbeidskrav_1
+# Dette er innleveringen av arbeidskrav 1
+### Jeg håper den tilfredsstiller kravene 
